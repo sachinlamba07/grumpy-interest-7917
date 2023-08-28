@@ -45,4 +45,7 @@ Follow these guidelines to ensure the project's success:
 * Consider adding features like ticket filtration and assignment to enhance issue management efficiency.
 
 
+# Contributing
+**We welcome contributions to improve and expand the CRM system. If you have ideas or enhancements, feel free to open an issue or submit a pull request.**
+
  **Feel free to contribute, adapt, and expand upon this CRM system to align it perfectly with your business needs. Happy coding! 🚀**
