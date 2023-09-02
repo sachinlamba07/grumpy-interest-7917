@@ -38,6 +38,14 @@ Make sure to:
 
 
 
+#ScreeenShots
+
+![image](https://github.com/sachinlamba07/grumpy-interest-7917/assets/123922087/e47d0f9d-d343-49a1-ad0e-02c382a5a2c5)
+![image](https://github.com/sachinlamba07/grumpy-interest-7917/assets/123922087/2b3e8d3f-ce78-4724-b341-e55332133fbc)
+![image](https://github.com/sachinlamba07/grumpy-interest-7917/assets/123922087/25e6d3f7-aeb2-43b8-b560-ae3b666b6e6a)
+![image](https://github.com/sachinlamba07/grumpy-interest-7917/assets/123922087/024ecb6f-bea6-4e61-a726-236c00c11b29)
+
+
 
 
 # Best Practices
