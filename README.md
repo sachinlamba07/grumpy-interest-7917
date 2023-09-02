@@ -34,6 +34,9 @@ Make sure to:
 * Utilize Hibernate as the ORM framework to seamlessly map Java objects to database tables, ensuring smooth integration between the application and the database.
 * Create an ER-Diagram to visually represent the database structure and relationships.
 
+* ER Diagram  ![image](https://github.com/sachinlamba07/grumpy-interest-7917/assets/123922087/6cca3da8-bd93-4049-bcef-523e4ba4582d)
+
+
 
 
 # Best Practices
