@@ -1,4 +1,4 @@
-# Customer Relationship Management (CRM) System
+# ClientFusion-CRM
 
 Welcome to the Customer Relationship Management (CRM) System! This console-based software solution is designed to streamline customer interactions, improve issue resolution, and boost overall customer satisfaction. By leveraging Java programming language, MySQL database management system, and Hibernate Object-Relational Mapping (ORM) framework, this CRM system aims to provide businesses with efficient tools for managing customer issues and delivering effective support.
 
